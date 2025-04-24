@@ -6,7 +6,11 @@
 
 ## Contact Me
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/brandon_tang_/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](bkt7@sfu.ca)
+
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+- School: bkt7@sfu.ca
+- Personal: tangbrandonk@gmail.com
 
 
 <!--

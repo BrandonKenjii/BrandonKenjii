@@ -1,4 +1,13 @@
-## Hi there 👋
+## Brandon Tang 
+
+ Hi, I'm Brandon, a 19 year old developer living in Vancouver, British Columbia. I'm currently studying Computer Science with an interest in Mathematics at Simon Fraser University.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,c,cpp,cmake,discord,git,github,maven,py,)](https://skillicons.dev)
+
+## Contact Me
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/brandon_tang_/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](bkt7@sfu.ca)
+
 
 <!--
 **Likima/Likima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

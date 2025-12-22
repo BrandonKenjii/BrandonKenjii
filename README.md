@@ -1,6 +1,6 @@
 ## Brandon Tang 
 
- Hi, I'm Brandon, a 20 year old developer living in Vancouver, British Columbia. I'm currently studying Computer Science with an interest in Mathematics at Simon Fraser University. I'm also a research assistant working on the analysis of testability metrics for asynchronous programs in dynamic languages.
+ Hi, I'm Brandon, a 20 year old developer living in Vancouver, British Columbia. I'm currently studying Computer Science and Mathematics at Simon Fraser University. I'm also a research assistant working on the analysis of testability metrics and how they can be used to improve LLM-generated unit tests. I'm currently working with a team to develop AI-based solutions for Short Tandem Repeat analysis in long-read genetic sequences.
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,c,cpp,cmake,discord,git,github,maven,py,)](https://skillicons.dev)

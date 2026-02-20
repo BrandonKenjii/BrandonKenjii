@@ -1,22 +1,18 @@
-## Brandon Tang 
+## About Me
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2039%20mins-blue?style=flat) ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
- Hi, I'm Brandon, a 20 year old developer living in Vancouver, British Columbia. I'm currently studying Computer Science and Mathematics at Simon Fraser University. I'm a research assistant working on the analysis of testability metrics and how they can be used to improve LLM-generated unit tests. I'm currently working with a team to develop AI-based solutions for Short Tandem Repeat analysis in long-read genetic sequences. I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
+ Hi, I'm Brandon, a 20 year old developer living in Vancouver, British Columbia. I'm currently studying Computer Science and Mathematics at Simon Fraser University.
+
+## Experience
+I'm a research assistant at the SE@SFU Lab working on the analysis of testability metrics and how they can be used to improve LLM-generated unit tests. I'm currently working with a team to develop AI-based solutions for Short Tandem Repeat analysis in long-read genetic sequences. I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,c,cpp,cmake,discord,git,github,maven,py,)](https://skillicons.dev)
 
-## Contact Me
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/brandon_tang_/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bkt7@sfu.com)
-
-
-- School: bkt7@sfu.ca
-- Personal: tangbrandonk@gmail.com
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+
 
 **🐱 My GitHub Data** 
 
@@ -24,13 +20,10 @@
  > 
 > 🏆 44 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 31 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
 ```text
 🌞 Morning                248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 

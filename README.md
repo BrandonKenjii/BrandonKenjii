@@ -1,6 +1,4 @@
 ## About Me
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2039%20mins-blue?style=flat) ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
  Hi, I'm Brandon, a 20 year old developer living in Vancouver, British Columbia. I'm currently studying Computer Science and Mathematics at Simon Fraser University.
 
 ## Experience

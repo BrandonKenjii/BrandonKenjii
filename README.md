@@ -1,8 +1,15 @@
 ## About Me
- Hi, I'm Brandon, a 20 year old developer living in Vancouver, British Columbia. I'm currently studying Computer Science and Mathematics at Simon Fraser University.
+ Hi, I'm Brandon, a 20 year old developer living in Vancouver, British Columbia. I'm currently pursuing a bachelor's in Computer Science and Mathematics at Simon Fraser University.
 
 ## Experience
-I'm a research assistant at the SE@SFU Lab working on the analysis of testability metrics and how they can be used to improve LLM-generated unit tests. I'm currently working with a team to develop AI-based solutions for Short Tandem Repeat analysis in long-read genetic sequences. I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
+
+### Research
+
+I'm a research assistant at the SE@SFU Lab working on the analysis of testability metrics, how they can be used to improve LLM-generated unit tests, and how closely human-written tests mirror LLM-generated tests. I'm also currently working on developing AI-based solutions for Short Tandem Repeat analysis in long-read genetic sequences alongside a genetics research team at UBC.
+
+### Work
+
+I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cmake,git,maven,py,)](https://skillicons.dev)

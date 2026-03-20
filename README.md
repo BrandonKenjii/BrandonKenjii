@@ -7,7 +7,7 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cmake,git,maven,py,)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likima&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likima&show_icons=true&theme=tokyonight) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Likima)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%204%20mins-blue?style=flat)

@@ -11,9 +11,6 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 
 I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
-## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cmake,git,maven,py,)](https://skillicons.dev)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likima&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->

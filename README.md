@@ -14,13 +14,13 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likima&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 190.6 kB Used in GitHub's Storage 
+> 📦 190.7 kB Used in GitHub's Storage 
  > 
 > 🏆 111 Contributions in the Year 2026
  > 
@@ -57,24 +57,24 @@ Sunday                   423 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-JavaScript               3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-TypeScript               2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-PHP                      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-JSON                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+TypeScript               3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+JavaScript               2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+PHP                      2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Bash                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-unimap_front             4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-TSTestGeneration         3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-uniexpress-openplatform-b2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Mutect                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-uniuni-client-portal-back52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+TSTestGeneration         4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+unimap_front             3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+uniexpress-openplatform-b2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+uniuni-client-portal-weba1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+uniuni-client-portal-back1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 💻 Operating System: 
-Windows                  14 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -94,7 +94,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Likima/Likima/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 19:38:06 UTC
+ Last Updated on 27/03/2026 19:16:55 UTC
 <!--END_SECTION:waka-->
 
 <!--

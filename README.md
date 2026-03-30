@@ -14,7 +14,7 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likima&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -94,7 +94,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Likima/Likima/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2026 19:09:27 UTC
+ Last Updated on 30/03/2026 19:34:32 UTC
 <!--END_SECTION:waka-->
 
 <!--

@@ -11,7 +11,7 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 
 I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likima&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonKenjii&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2031%20mins-blue?style=flat)
@@ -91,7 +91,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Likima/Likima/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
  Last Updated on 06/04/2026 19:38:52 UTC

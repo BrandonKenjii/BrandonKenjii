@@ -14,7 +14,7 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonKenjii&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -22,7 +22,7 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 
 > 📦 191.4 kB Used in GitHub's Storage 
  > 
-> 🏆 159 Contributions in the Year 2026
+> 🏆 165 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,21 +33,21 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-🌆 Daytime                1128 commits        ████████████░░░░░░░░░░░░░   46.12 % 
-🌃 Evening                892 commits         █████████░░░░░░░░░░░░░░░░   36.47 % 
-🌙 Night                  77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+🌞 Morning                351 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+🌆 Daytime                1130 commits        ████████████░░░░░░░░░░░░░   46.12 % 
+🌃 Evening                892 commits         █████████░░░░░░░░░░░░░░░░   36.41 % 
+🌙 Night                  77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Tuesday                  204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Wednesday                383 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Thursday                 336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Friday                   297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Saturday                 518 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Sunday                   459 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Monday                   251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Tuesday                  205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Wednesday                383 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Thursday                 337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Friday                   297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Saturday                 518 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Sunday                   459 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 ```
 
 
@@ -95,7 +95,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 19:14:35 UTC
+ Last Updated on 20/04/2026 19:42:14 UTC
 <!--END_SECTION:waka-->
 
 <!--

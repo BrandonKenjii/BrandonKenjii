@@ -14,9 +14,9 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonKenjii&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,25 +57,25 @@ Sunday                   468 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-PHP                      4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.17 % 
-JavaScript               2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Other                    1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Kotlin                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+PHP                      3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+Other                    2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+JavaScript               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 53 mins      ██████████████████████░░░   87.50 % 
-Unknown Editor           1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+VS Code                  9 hrs 47 mins       ██████████████████████░░░   87.11 % 
+Unknown Editor           1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 🐱‍💻 Projects: 
-uniexpress-openplatform-b4 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
-unimap_front             2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-uniuni_android_dispatch_a2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-uniuni-documentation     2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-TSTestGeneration         1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+uniexpress-openplatform-b3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
+uniuni-documentation     2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+unimap_front             1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+uniuni_android_dispatch_a1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+TSTestGeneration         1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 
 💻 Operating System: 
-Windows                  13 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +95,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2026 19:47:18 UTC
+ Last Updated on 22/04/2026 19:47:41 UTC
 <!--END_SECTION:waka-->
 
 <!--

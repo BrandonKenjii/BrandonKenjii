@@ -14,15 +14,15 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonKenjii&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 191.6 kB Used in GitHub's Storage 
+> 📦 191.8 kB Used in GitHub's Storage 
  > 
-> 🏆 190 Contributions in the Year 2026
+> 🏆 195 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,54 +30,6 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
  > 
 > 🔑 30 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                382 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌆 Daytime                1209 commits        ████████████░░░░░░░░░░░░░   47.02 % 
-🌃 Evening                903 commits         █████████░░░░░░░░░░░░░░░░   35.12 % 
-🌙 Night                  77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Tuesday                  220 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Wednesday                414 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Thursday                 361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Friday                   308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Saturday                 524 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Sunday                   469 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-PHP                      11 hrs 26 mins      █████████████░░░░░░░░░░░░   52.10 % 
-Other                    3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Blade Template           2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Bash                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 7 mins       ██████████████████░░░░░░░   73.43 % 
-Unknown Editor           5 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-
-🐱‍💻 Projects: 
-uniuni-client-portal-back18 hrs 1 min        █████████████████████░░░░   82.02 % 
-uniuni-github            1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-ehydra-cms               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-ehydra-frontends         44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-uniuni-client-portal-weba22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-
-💻 Operating System: 
-Windows                  21 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -95,7 +47,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 20:17:12 UTC
+ Last Updated on 13/05/2026 20:19:16 UTC
 <!--END_SECTION:waka-->
 
 <!--

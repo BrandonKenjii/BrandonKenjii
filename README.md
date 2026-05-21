@@ -12,7 +12,7 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -20,7 +20,7 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 
 > 📦 191.9 kB Used in GitHub's Storage 
  > 
-> 🏆 202 Contributions in the Year 2026
+> 🏆 208 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,6 +28,54 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
  > 
 > 🔑 30 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌆 Daytime                1281 commits        ████████████░░░░░░░░░░░░░   48.34 % 
+🌃 Evening                903 commits         █████████░░░░░░░░░░░░░░░░   34.08 % 
+🌙 Night                  77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Tuesday                  232 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Wednesday                426 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Thursday                 403 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Friday                   321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Saturday                 524 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Sunday                   469 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Vancouver
+
+💬 Programming Languages: 
+Markdown                 9 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.90 % 
+PHP                      4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+TypeScript               2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Astro                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+
+🔥 Editors: 
+Claude Code              10 hrs 22 mins      █████████████░░░░░░░░░░░░   50.57 % 
+VS Code                  10 hrs 8 mins       ████████████░░░░░░░░░░░░░   49.43 % 
+
+🐱‍💻 Projects: 
+uniuni-client-portal-back13 hrs 27 mins      ████████████████░░░░░░░░░   65.62 % 
+uniuni-client-portal-weba3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+ehydra-frontends         2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+uniuni-github            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+uniuni-client-portal-efra11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+
+💻 Operating System: 
+Windows                  20 hrs 31 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -45,7 +93,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 20:36:09 UTC
+ Last Updated on 21/05/2026 20:21:39 UTC
 <!--END_SECTION:waka-->
 
 <!--

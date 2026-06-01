@@ -12,15 +12,15 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 192.0 kB Used in GitHub's Storage 
  > 
-> 🏆 245 Contributions in the Year 2026
+> 🏆 249 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,21 +31,21 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                412 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-🌆 Daytime                1441 commits        █████████████░░░░░░░░░░░░   50.47 % 
-🌃 Evening                925 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
-🌙 Night                  77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+🌞 Morning                414 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+🌆 Daytime                1469 commits        █████████████░░░░░░░░░░░░   50.71 % 
+🌃 Evening                937 commits         ████████░░░░░░░░░░░░░░░░░   32.34 % 
+🌙 Night                  77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   281 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Tuesday                  257 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Wednesday                468 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Thursday                 500 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Friday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Saturday                 524 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Sunday                   475 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Monday                   283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Tuesday                  260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Wednesday                472 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Thursday                 523 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Friday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Saturday                 524 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Sunday                   485 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
 ```
 
 
@@ -95,7 +95,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 19:48:24 UTC
+ Last Updated on 01/06/2026 21:50:14 UTC
 <!--END_SECTION:waka-->
 
 <!--

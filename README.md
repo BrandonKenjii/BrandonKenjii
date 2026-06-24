@@ -1,5 +1,5 @@
 ## About Me
- Hi, I'm Brandon, a 20 year old developer living in Vancouver, British Columbia. I'm currently pursuing a bachelor's in Computer Science and Mathematics at Simon Fraser University.
+ Hi, I'm Brandon, a 21 year old developer living in Vancouver, British Columbia. I'm currently pursuing a bachelor's in Computer Science and Mathematics at Simon Fraser University.
 
 ## Experience
 

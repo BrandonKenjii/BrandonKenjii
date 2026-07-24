@@ -12,7 +12,7 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,25 +55,25 @@ Sunday                   587 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 7 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
-Other                    4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Python                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-TypeScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-YAML                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Markdown                 6 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
+Other                    3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+TypeScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Terraform                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 53 mins      ███████████████████████░░   92.50 % 
-VS Code                  1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Claude Code              15 hrs 4 mins       ██████████████████████░░░   89.85 % 
+VS Code                  1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 
 🐱‍💻 Projects: 
-ehydra-agent-workspace   6 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
-ehydra-dbt               6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-ehydra-airbyte           3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-ehydra-cms               2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-ehydra                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+ehydra-agent-workspace   6 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.21 % 
+ehydra-airbyte           3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+ehydra-dbt               3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+ehydra-cms               1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+ehydra                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 💻 Operating System: 
-Windows                  21 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +93,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:56:22 UTC
+ Last Updated on 24/07/2026 19:55:30 UTC
 <!--END_SECTION:waka-->
 
 <!--

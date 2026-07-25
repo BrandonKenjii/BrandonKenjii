@@ -55,25 +55,25 @@ Sunday                   587 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 6 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
-Other                    3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-TypeScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Terraform                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Markdown                 5 hrs 29 mins       █████████████░░░░░░░░░░░░   51.16 % 
+TypeScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Text                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Terraform                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 4 mins       ██████████████████████░░░   89.85 % 
-VS Code                  1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Claude Code              9 hrs 21 mins       ██████████████████████░░░   87.24 % 
+VS Code                  1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 
 🐱‍💻 Projects: 
-ehydra-agent-workspace   6 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.21 % 
-ehydra-airbyte           3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-ehydra-dbt               3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-ehydra-cms               1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-ehydra                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+ehydra-agent-workspace   6 hrs 54 mins       ████████████████░░░░░░░░░   64.51 % 
+ehydra-airbyte           1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+ehydra-cms               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+ehydra-dbt               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+ehydra-cube              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 💻 Operating System: 
-Windows                  16 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +93,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:30 UTC
+ Last Updated on 25/07/2026 19:42:41 UTC
 <!--END_SECTION:waka-->
 
 <!--

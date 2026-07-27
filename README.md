@@ -12,13 +12,15 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2038%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 193.0 kB Used in GitHub's Storage 
+> 📦 193.1 kB Used in GitHub's Storage 
  > 
 > 🏆 268 Contributions in the Year 2026
  > 
@@ -76,6 +78,29 @@ ehydra-cube              24 mins             █░░░░░░░░░░�
 Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 10 hrs 7 mins (94.42%)
+
+✍️ 16,219 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 515,881,045 Input Tokens, 1,646,391 Output Tokens
+
+💵 $2618.30 Estimated AI Cost This Week
+
+🧠 18 AI Sessions, 158 AI Prompts
+
+Opus                     16,319 lines        █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 17,866 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -93,7 +118,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:44:56 UTC
+ Last Updated on 27/07/2026 20:04:23 UTC
 <!--END_SECTION:waka-->
 
 <!--

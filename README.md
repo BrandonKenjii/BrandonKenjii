@@ -33,21 +33,21 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-🌆 Daytime                2263 commits        ██████████████░░░░░░░░░░░   55.77 % 
-🌃 Evening                1232 commits        ████████░░░░░░░░░░░░░░░░░   30.36 % 
-🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+🌞 Morning                490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+🌆 Daytime                2294 commits        ██████████████░░░░░░░░░░░   55.87 % 
+🌃 Evening                1245 commits        ████████░░░░░░░░░░░░░░░░░   30.32 % 
+🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   356 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Tuesday                  360 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Wednesday                610 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Thursday                 1268 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Sunday                   588 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Monday                   360 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Tuesday                  364 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Wednesday                616 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Thursday                 1298 commits        ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Sunday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 ```
 
 
@@ -57,48 +57,48 @@ Sunday                   588 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 5 hrs 29 mins       █████████████░░░░░░░░░░░░   51.16 % 
-TypeScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Text                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Terraform                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Markdown                 1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   39.72 % 
+Terraform                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 21 mins       ██████████████████████░░░   87.24 % 
-VS Code                  1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Claude Code              3 hrs 49 mins       ████████████████████░░░░░   81.68 % 
+VS Code                  51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
 
 🐱‍💻 Projects: 
-ehydra-agent-workspace   6 hrs 54 mins       ████████████████░░░░░░░░░   64.51 % 
-ehydra-airbyte           1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-ehydra-cms               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-ehydra-dbt               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-ehydra-cube              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+ehydra-agent-workspace   2 hrs 31 mins       █████████████░░░░░░░░░░░░   53.69 % 
+ehydra-airbyte           1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+ehydra-cube              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+ehydra-dbt               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+ehydra-cms               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  4 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 7 mins (94.42%)
+⏱ AI Coding Time: 4 hrs 6 mins (87.76%)
 
-✍️ 16,219 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 3,848 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 515,881,045 Input Tokens, 1,646,391 Output Tokens
+🔤 96,677,410 Input Tokens, 668,702 Output Tokens
 
-💵 $2618.30 Estimated AI Cost This Week
+💵 $732.40 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 158 AI Prompts
+🧠 11 AI Sessions, 78 AI Prompts
 
-Opus                     16,319 lines        █████████████████████████   100.00 % 
+Opus                     5,299 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 17,866 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 16,960 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +118,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:04:23 UTC
+ Last Updated on 28/07/2026 20:01:37 UTC
 <!--END_SECTION:waka-->
 
 <!--

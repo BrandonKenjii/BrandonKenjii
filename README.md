@@ -12,9 +12,9 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -33,21 +33,21 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-🌆 Daytime                2294 commits        ██████████████░░░░░░░░░░░   55.87 % 
-🌃 Evening                1245 commits        ████████░░░░░░░░░░░░░░░░░   30.32 % 
-🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+🌞 Morning                492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+🌆 Daytime                2335 commits        ██████████████░░░░░░░░░░░   56.09 % 
+🌃 Evening                1259 commits        ████████░░░░░░░░░░░░░░░░░   30.24 % 
+🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   360 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Tuesday                  364 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Wednesday                616 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Thursday                 1298 commits        ████████░░░░░░░░░░░░░░░░░   31.61 % 
-Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Sunday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Monday                   362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Tuesday                  369 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Wednesday                622 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Thursday                 1337 commits        ████████░░░░░░░░░░░░░░░░░   32.12 % 
+Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Sunday                   597 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 ```
 
 
@@ -57,48 +57,46 @@ Sunday                   592 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-TypeScript               1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   31.93 % 
-Markdown                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Bash                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Terraform                32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+TypeScript               2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
+Markdown                 1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Bash                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Terraform                31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 43 mins       █████████████░░░░░░░░░░░░   51.15 % 
-VS Code                  2 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.85 % 
+Claude Code              3 hrs 28 mins       ██████████████░░░░░░░░░░░   55.62 % 
+VS Code                  2 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.38 % 
 
 🐱‍💻 Projects: 
-ehydra-cms               2 hrs 41 mins       █████████████░░░░░░░░░░░░   50.46 % 
-ehydra-airbyte           1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-ehydra-agent-workspace   1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-ehydra                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-ehydra-cube              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+ehydra-cms               3 hrs 23 mins       ██████████████░░░░░░░░░░░   54.24 % 
+ehydra-airbyte           1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+ehydra-agent-workspace   1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
 
 💻 Operating System: 
-Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (52.45%)
+⏱ AI Coding Time: 3 hrs 43 mins (59.51%)
 
-✍️ 1,801 lines written by AI, 232 lines written by hand (88.59% AI-written)
+✍️ 2,661 lines written by AI, 232 lines written by hand (91.98% AI-written)
 
-🔤 43,670,374 Input Tokens, 321,156 Output Tokens
+🔤 99,901,311 Input Tokens, 427,474 Output Tokens
 
-💵 $465.90 Estimated AI Cost This Week
+💵 $753.57 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 47 AI Prompts
+🧠 11 AI Sessions, 34 AI Prompts
 
-Opus                     3,247 lines         █████████████████████████   100.00 % 
+Opus                     4,156 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.59% of written lines came from AI
-📚 Verbose Prompter — average 15,817 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 11.35% of changed lines were hand-edited
+🤖 AI-Driven — 91.98% of written lines came from AI
+📚 Verbose Prompter — average 5,051 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 7.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +116,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:53:25 UTC
+ Last Updated on 30/07/2026 20:01:30 UTC
 <!--END_SECTION:waka-->
 
 <!--

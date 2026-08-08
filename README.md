@@ -12,9 +12,9 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-314%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-318%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,48 +57,46 @@ Sunday                   603 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
-TypeScript               2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-JavaScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Other                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Text                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+TypeScript               2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Markdown                 2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Other                    1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+JavaScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+SQL                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 3 mins        █████████████████████░░░░   83.22 % 
-VS Code                  1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Claude Code              8 hrs 45 mins       ██████████████████████░░░   88.91 % 
+VS Code                  1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 
 🐱‍💻 Projects: 
-ehydra-cms               5 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.38 % 
-ehydra-agent-workspace   4 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.77 % 
-ehydra                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-ehydra-dbt               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-ehydra-cube              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+ehydra-cms               6 hrs 4 mins        ███████████████░░░░░░░░░░   61.67 % 
+ehydra-agent-workspace   3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.68 % 
+ehydra                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+ehydra-dbt               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  10 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 52 mins (99.97%)
+⏱ AI Coding Time: 9 hrs 18 mins (94.54%)
 
-✍️ 4,687 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,940 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 217,574,794 Input Tokens, 1,053,727 Output Tokens
+🔤 90,492,383 Input Tokens, 832,443 Output Tokens
 
-💵 $1107.16 Estimated AI Cost This Week
+💵 $520.36 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 113 AI Prompts
+🧠 16 AI Sessions, 108 AI Prompts
 
-Opus                     3,547 lines         ██████████████████░░░░░░░   72.03 % 
-GPT                      1,377 lines         ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Opus                     3,980 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,022 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 7,980 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -119,7 +117,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:29:11 UTC
+ Last Updated on 08/08/2026 19:09:14 UTC
 <!--END_SECTION:waka-->
 
 <!--

@@ -12,9 +12,9 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-318%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-320%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -33,21 +33,21 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-🌆 Daytime                2400 commits        ██████████████░░░░░░░░░░░   56.40 % 
-🌃 Evening                1282 commits        ████████░░░░░░░░░░░░░░░░░   30.13 % 
-🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+🌞 Morning                496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+🌆 Daytime                2434 commits        ██████████████░░░░░░░░░░░   56.62 % 
+🌃 Evening                1292 commits        ████████░░░░░░░░░░░░░░░░░   30.05 % 
+🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Tuesday                  377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Wednesday                632 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Thursday                 1399 commits        ████████░░░░░░░░░░░░░░░░░   32.88 % 
-Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Sunday                   605 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Monday                   366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Tuesday                  381 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Wednesday                636 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Thursday                 1431 commits        ████████░░░░░░░░░░░░░░░░░   33.29 % 
+Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Sunday                   609 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 ```
 
 
@@ -57,45 +57,46 @@ Sunday                   605 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-TypeScript               2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-Markdown                 2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Other                    1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-JavaScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-SQL                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Markdown                 3 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.21 % 
+TypeScript               3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+JavaScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+SQL                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 45 mins       ██████████████████████░░░   88.91 % 
-VS Code                  1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Claude Code              10 hrs 39 mins      ██████████████████████░░░   87.82 % 
+VS Code                  1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
 
 🐱‍💻 Projects: 
-ehydra-cms               6 hrs 4 mins        ███████████████░░░░░░░░░░   61.67 % 
-ehydra-agent-workspace   3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.68 % 
-ehydra                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-ehydra-dbt               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+ehydra-cms               7 hrs 46 mins       ████████████████░░░░░░░░░   64.11 % 
+ehydra-agent-workspace   3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+ehydra                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+ehydra-dbt               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  9 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 18 mins (94.54%)
+⏱ AI Coding Time: 11 hrs 27 mins (94.4%)
 
-✍️ 3,940 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,830 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 90,492,383 Input Tokens, 832,443 Output Tokens
+🔤 91,040,589 Input Tokens, 1,020,293 Output Tokens
 
-💵 $520.36 Estimated AI Cost This Week
+💵 $552.22 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 108 AI Prompts
+🧠 19 AI Sessions, 125 AI Prompts
 
-Opus                     3,980 lines         █████████████████████████   100.00 % 
+Opus                     4,890 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,980 characters per prompt
+📚 Verbose Prompter — average 7,253 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -117,7 +118,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:30:02 UTC
+ Last Updated on 11/08/2026 19:35:57 UTC
 <!--END_SECTION:waka-->
 
 <!--

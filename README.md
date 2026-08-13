@@ -12,9 +12,9 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-323%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-328%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -33,21 +33,21 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-🌆 Daytime                2451 commits        ██████████████░░░░░░░░░░░   56.72 % 
-🌃 Evening                1297 commits        ████████░░░░░░░░░░░░░░░░░   30.02 % 
-🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+🌞 Morning                496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+🌆 Daytime                2468 commits        ██████████████░░░░░░░░░░░   56.83 % 
+🌃 Evening                1302 commits        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Tuesday                  383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Wednesday                638 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Thursday                 1447 commits        ████████░░░░░░░░░░░░░░░░░   33.49 % 
-Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Sunday                   611 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Monday                   366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Tuesday                  385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Wednesday                640 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Thursday                 1463 commits        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Sunday                   613 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 ```
 
 
@@ -57,50 +57,51 @@ Sunday                   611 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 5 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.39 % 
-TypeScript               2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Other                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-SQL                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Markdown                 9 hrs 37 mins       ████████████████░░░░░░░░░   63.19 % 
+TypeScript               2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 1 min        ██████████████████████░░░   86.42 % 
-VS Code                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Claude Code              12 hrs 55 mins      █████████████████████░░░░   84.91 % 
+VS Code                  1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Codex Vscode             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-ehydra-agent-workspace   5 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.31 % 
-ehydra-cms               5 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
-ehydra                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-ehydra-dbt               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-localdb                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+ehydra-agent-workspace   10 hrs 6 mins       █████████████████░░░░░░░░   66.46 % 
+ehydra-cms               4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
+ehydra                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+localdb                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  11 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 44 mins (92.69%)
+⏱ AI Coding Time: 14 hrs 20 mins (94.26%)
 
-✍️ 4,532 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,307 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,779,430 Input Tokens, 968,110 Output Tokens
+🔤 5,637,258 Input Tokens, 1,430,385 Output Tokens
 
-💵 $260.75 Estimated AI Cost This Week
+💵 $316.62 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 101 AI Prompts
+🧠 22 AI Sessions, 115 AI Prompts
 
-Opus                     4,886 lines         █████████████████████████   100.00 % 
+Opus                     6,875 lines         ████████████████████████░   97.16 % 
+GPT                      201 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,246 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+📚 Verbose Prompter — average 17,496 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,7 +121,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:36:04 UTC
+ Last Updated on 13/08/2026 19:35:03 UTC
 <!--END_SECTION:waka-->
 
 <!--

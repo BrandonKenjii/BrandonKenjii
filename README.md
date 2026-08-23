@@ -20,7 +20,7 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 
 **🐱 My GitHub Data** 
 
-> 📦 193.3 kB Used in GitHub's Storage 
+> 📦 193.2 kB Used in GitHub's Storage 
  > 
 > 🏆 266 Contributions in the Year 2026
  > 
@@ -122,7 +122,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:56:57 UTC
+ Last Updated on 23/08/2026 18:57:48 UTC
 <!--END_SECTION:waka-->
 
 <!--

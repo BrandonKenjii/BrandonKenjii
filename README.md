@@ -57,51 +57,48 @@ Sunday                   617 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 5 hrs 28 mins       ███████████░░░░░░░░░░░░░░   45.53 % 
-JSON                     3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.06 % 
-JavaScript               2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Markdown                 2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.12 % 
+JSON                     1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+JavaScript               1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+TypeScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 26 mins       ████████████████████░░░░░   78.60 % 
-VS Code                  2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Codex Vscode             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Claude Code              4 hrs 22 mins       █████████████████░░░░░░░░   69.28 % 
+VS Code                  1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Codex Vscode             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🐱‍💻 Projects: 
-ehydra-agent-workspace   11 hrs 26 mins      ████████████████████████░   95.20 % 
-vch-preop-questionairre  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-ehydra-cms               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-localdb                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+ehydra-agent-workspace   5 hrs 45 mins       ███████████████████████░░   91.00 % 
+vch-preop-questionairre  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+ehydra-cms               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  12 hrs              █████████████████████████   100.00 % 
+Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 58 mins (99.72%)
+⏱ AI Coding Time: 6 hrs 17 mins (99.46%)
 
-✍️ 15,581 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,337 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,448,982 Input Tokens, 1,870,393 Output Tokens
+🔤 4,646,644 Input Tokens, 937,536 Output Tokens
 
-💵 $347.07 Estimated AI Cost This Week
+💵 $217.62 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 117 AI Prompts
+🧠 26 AI Sessions, 55 AI Prompts
 
-Opus                     12,366 lines        ████████████████████░░░░░   78.96 % 
-GPT                      2,567 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Deepseek                 728 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Opus                     4,844 lines         ███████████████████░░░░░░   76.09 % 
+GPT                      794 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Deepseek                 728 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 977 characters per prompt
+📄 Detailed Prompter — average 1,034 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -123,7 +120,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:13:33 UTC
+ Last Updated on 02/09/2026 21:13:53 UTC
 <!--END_SECTION:waka-->
 
 <!--

@@ -20,9 +20,9 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 
 **🐱 My GitHub Data** 
 
-> 📦 194.0 kB Used in GitHub's Storage 
+> 📦 194.1 kB Used in GitHub's Storage 
  > 
-> 🏆 277 Contributions in the Year 2026
+> 🏆 278 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,21 +33,21 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-🌆 Daytime                2502 commits        ██████████████░░░░░░░░░░░   56.95 % 
-🌃 Evening                1312 commits        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+🌞 Morning                509 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌆 Daytime                2502 commits        ██████████████░░░░░░░░░░░   56.86 % 
+🌃 Evening                1312 commits        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
 🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Tuesday                  389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Wednesday                649 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Thursday                 1496 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
-Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Sunday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Monday                   366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Tuesday                  389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Wednesday                653 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Thursday                 1499 commits        █████████░░░░░░░░░░░░░░░░   34.07 % 
+Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Sunday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 ```
 
 
@@ -57,48 +57,48 @@ Sunday                   617 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.12 % 
-JSON                     1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-JavaScript               1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-TypeScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+JavaScript               1 hr 8 mins         ████████████░░░░░░░░░░░░░   46.42 % 
+JSON                     41 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 22 mins       █████████████████░░░░░░░░   69.28 % 
-VS Code                  1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-Codex Vscode             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Claude Code              1 hr 41 mins        █████████████████░░░░░░░░   68.79 % 
+VS Code                  35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Codex Vscode             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 🐱‍💻 Projects: 
-ehydra-agent-workspace   5 hrs 45 mins       ███████████████████████░░   91.00 % 
-vch-preop-questionairre  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-ehydra-cms               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+ehydra-agent-workspace   2 hrs 24 mins       █████████████████████████   98.04 % 
+ehydra-cms               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+vch-preop-questionairre  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 17 mins (99.46%)
+⏱ AI Coding Time: 2 hrs 25 mins (98.62%)
 
-✍️ 6,337 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 280 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,646,644 Input Tokens, 937,536 Output Tokens
+🔤 1,631,990 Input Tokens, 364,896 Output Tokens
 
-💵 $217.62 Estimated AI Cost This Week
+💵 $53.79 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 55 AI Prompts
+🧠 13 AI Sessions, 27 AI Prompts
 
-Opus                     4,844 lines         ███████████████████░░░░░░   76.09 % 
-GPT                      794 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Deepseek                 728 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      144 lines           █████████████░░░░░░░░░░░░   51.06 % 
+Opus                     103 lines           █████████░░░░░░░░░░░░░░░░   36.52 % 
+Deepseek                 35 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,034 characters per prompt
+📄 Detailed Prompter — average 1,029 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -120,7 +120,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:13:53 UTC
+ Last Updated on 03/09/2026 21:14:21 UTC
 <!--END_SECTION:waka-->
 
 <!--

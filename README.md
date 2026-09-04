@@ -57,49 +57,38 @@ Sunday                   617 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-JavaScript               1 hr 8 mins         ████████████░░░░░░░░░░░░░   46.42 % 
-JSON                     41 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Markdown                 6 mins              ██████████████░░░░░░░░░░░   55.29 % 
+Other                    5 mins              ███████████░░░░░░░░░░░░░░   44.71 % 
 
 🔥 Editors: 
-Claude Code              1 hr 41 mins        █████████████████░░░░░░░░   68.79 % 
-VS Code                  35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-Codex Vscode             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ehydra-agent-workspace   2 hrs 24 mins       █████████████████████████   98.04 % 
-ehydra-cms               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-vch-preop-questionairre  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+ehydra-agent-workspace   11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 25 mins (98.62%)
+⏱ AI Coding Time: 11 mins (100.0%)
 
-✍️ 280 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 118 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,631,990 Input Tokens, 364,896 Output Tokens
+🔤 213,412 Input Tokens, 25,304 Output Tokens
 
-💵 $53.79 Estimated AI Cost This Week
+💵 $0.12 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 27 AI Prompts
+🧠 5 AI Sessions, 5 AI Prompts
 
-GPT                      144 lines           █████████████░░░░░░░░░░░░   51.06 % 
-Opus                     103 lines           █████████░░░░░░░░░░░░░░░░   36.52 % 
-Deepseek                 35 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      118 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,029 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 914 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -120,7 +109,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:14:21 UTC
+ Last Updated on 04/09/2026 20:56:14 UTC
 <!--END_SECTION:waka-->
 
 <!--

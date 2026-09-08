@@ -20,9 +20,9 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 
 **🐱 My GitHub Data** 
 
-> 📦 195.1 kB Used in GitHub's Storage 
+> 📦 195.2 kB Used in GitHub's Storage 
  > 
-> 🏆 292 Contributions in the Year 2026
+> 🏆 297 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,21 +33,21 @@ I work as a Junior Software Developer at eMonster Solutions, where I work full s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-🌆 Daytime                2518 commits        ██████████████░░░░░░░░░░░   56.89 % 
-🌃 Evening                1312 commits        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+🌞 Morning                526 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+🌆 Daytime                2531 commits        ██████████████░░░░░░░░░░░   56.93 % 
+🌃 Evening                1312 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+🌙 Night                  77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Tuesday                  389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Wednesday                657 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Thursday                 1505 commits        ████████░░░░░░░░░░░░░░░░░   34.00 % 
-Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Saturday                 525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Sunday                   632 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Monday                   366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Tuesday                  394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Wednesday                661 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Thursday                 1508 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
+Friday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Saturday                 526 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Sunday                   639 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 ```
 
 
@@ -78,9 +78,9 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
+TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 TeX                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
@@ -92,7 +92,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:40:48 UTC
+ Last Updated on 08/09/2026 21:21:14 UTC
 <!--END_SECTION:waka-->
 
 <!--

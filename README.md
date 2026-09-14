@@ -7,10 +7,6 @@
 
 I'm a research assistant at the SE@SFU Lab working on the analysis of testability metrics, how they can be used to improve LLM-generated unit tests, and how closely human-written tests mirror LLM-generated tests. I'm also currently working on developing AI-based solutions for Short Tandem Repeat analysis in long-read genetic sequences alongside a genetics research team at UBC.
 
-### Work
-
-I work as a Junior Software Developer at eMonster Solutions, where I work full stack on a range of applications.
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2053%20mins-blue?style=flat)
 

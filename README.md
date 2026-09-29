@@ -12,11 +12,11 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-367%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 199.1 kB Used in GitHub's Storage 
+> 📦 199.2 kB Used in GitHub's Storage 
  > 
 > 🏆 338 Contributions in the Year 2026
  > 
@@ -88,7 +88,7 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:28:00 UTC
+ Last Updated on 29/09/2026 22:31:30 UTC
 <!--END_SECTION:waka-->
 
 <!--

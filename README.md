@@ -18,7 +18,7 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 
 > 📦 199.3 kB Used in GitHub's Storage 
  > 
-> 🏆 341 Contributions in the Year 2026
+> 🏆 343 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,21 +29,21 @@ I'm a research assistant at the SE@SFU Lab working on the analysis of testabilit
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                550 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-🌆 Daytime                2686 commits        ██████████████░░░░░░░░░░░   57.37 % 
-🌃 Evening                1367 commits        ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+🌞 Morning                550 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+🌆 Daytime                2687 commits        ██████████████░░░░░░░░░░░   57.37 % 
+🌃 Evening                1368 commits        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
 🌙 Night                  79 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   375 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Tuesday                  417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Wednesday                689 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Thursday                 1630 commits        █████████░░░░░░░░░░░░░░░░   34.81 % 
-Friday                   358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Monday                   376 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Tuesday                  417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Wednesday                689 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Thursday                 1630 commits        █████████░░░░░░░░░░░░░░░░   34.80 % 
+Friday                   358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 Saturday                 530 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Sunday                   683 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Sunday                   684 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 ```
 
 
@@ -74,11 +74,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TeX                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+C++                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+C                        8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+TeX                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 
@@ -88,7 +88,7 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:45:04 UTC
+ Last Updated on 06/10/2026 00:16:23 UTC
 <!--END_SECTION:waka-->
 
 <!--

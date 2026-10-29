@@ -74,11 +74,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-C++                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-C                        8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-TeX                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+C++                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+C                        9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+TeX                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
 
@@ -88,7 +88,7 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonKenjii/BrandonKenjii/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:47:29 UTC
+ Last Updated on 29/10/2026 22:57:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
